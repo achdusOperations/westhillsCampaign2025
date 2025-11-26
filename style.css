@@ -229,7 +229,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     /*amount boxes and button*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*, #fs-donate-form .fs-btn-donate,.fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div{
         background-color: #f91c90 !important;
-        color:#353a59 !important;
+        color:#fff !important;
         border-radius:25px !important;
     }
     .fs-full-donate-form .fs-donate-body .fs-effective-donation-container .fs-effective-donation-amount-container{
