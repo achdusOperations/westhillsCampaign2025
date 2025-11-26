@@ -1,5 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
 
 /*header*/
 /*donate button*/
@@ -20,7 +22,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
 
 /*fonts title and buttons*/
 h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-footer .row>div:nth-of-type(1) h3,.fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*, body .fs-root h3, h4,.fs-goal .fs-goal-text strong, .fs-about-text strong, .fs-header .page-header h1 small, .fs-matchers .fs-matchers-intro strong, .fs-footer, .fs-header .page-header h2, .donate-button *,.btn, .fs-partners h3 span, .fs-about-text.js-about-text h3, .fs-about-text.js-about-text h4, .fs-full-donate-form .fs-donate-header .fs-text h2{
-    font-family: "Fredoka", sans-serif !important;
+    font-family: "Rubik", sans-serif !important;
 }
 
 /*hero image*/
