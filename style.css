@@ -123,22 +123,22 @@ background:#FFF !important ;
     background:#032550;
     }
     .fs-countdown-number, .fs-countdown-sep{
-      /*color:#fed401;*/
-      display:none !important;
+      color:#fed401;
+      /*display:none !important;*/
     }
     /*maximize in countdown*/
     .fs-countdown h3 strong {
         color:#fed401;
     }
     .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description{
-        /*color:#fff !important;*/
-        display:none;
+        color:#fff !important/
+        /*display:none;*/
     }
     /*left until...*/
     h3.fs-countdown-message {
-       /* color: #fed401 !important;*/
-       visibility:hidden !important;
-       position:relative !important;
+        color: #fed401 !important;
+       /*visibility:hidden !important;
+       position:relative !important;*/
     } 
     /*full width*/
     /*.fs-countdowndonate{
