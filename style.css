@@ -176,7 +176,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 }
 /*main text*/
 .fs-about-text.js-about-text h3{
-    color:# !important;
+    color:#353a59 !important;
 }
 .fs-about-text.js-about-text h4{
     color: #f91c90 !important;
