@@ -85,7 +85,7 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 background:#FFF !important ;
 }
 .col-md-6.text-xs-center.text-md-right.fs-goal-text, .fs-goal .fs-goal-text strong{
-    color:#b4b4b4 !important;
+    color:#353a59 !important;
 }
 .fs-goal .fs-goal-text .fs-goal-amount,.fs-goal .fs-goal-graph-container .fs-goal-graph-text span{
     color:#f91c90 !important;
@@ -95,7 +95,7 @@ background:#FFF !important ;
     background: #f91c90 !important;
 }
 .fs-goal-graph{
-    background: #b4b4b4 !important;
+    background: #353a59 !important;
 }
 /*center goal*/
 /*@media (min-width:992px){
@@ -120,7 +120,7 @@ background:#FFF !important ;
 
 /*countdown*/
 .fs-countdown {
-    background:#032550;
+    background:#f91c90 !important;
     }
     .fs-countdown-number, .fs-countdown-sep{
       color:#fed401;
@@ -131,7 +131,7 @@ background:#FFF !important ;
         color:#fed401;
     }
     .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description{
-        color:#fff !important/
+        color:#fff !important;
         /*display:none;*/
     }
     /*left until...*/
@@ -173,10 +173,10 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 }
 /*main text*/
 .fs-about-text.js-about-text h3{
-    color:#032550 !important;
+    color:#353a59 !important;
 }
 .fs-about-text.js-about-text h4{
-    color: #fd7301 !important;
+    color: #f91c90 !important;
 }
 .fs-about-text.js-about-text p{
     font-size:16px !important;
@@ -184,15 +184,15 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 /*"Our donors"*/
 .donar-section{
-    background: #032550;
+    background: #353a59;
     }
     .fs-partners>div{
-        border-top:6px solid #fed401 !important;
+        border-top:6px solid #f91c90 !important;
         background: #032550 !important;
         border-radius:25px !important;
     }       
     .fs-partners .fs-btn{
-        background:#fd7301 !important;
+        background:#f91c90 !important;
         border-radius: 25px !important;
         }
         .fs-partners h3 span , body > div.fs-root > div > div.container.fs-about-partners-container > div > div.col-md-4.fs-partners.js-partners > div > h3 {
@@ -212,25 +212,25 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
      /*read more*/
      .fs-about-text .fs-btn-read-more{
         border-radius: 25px !important;
-        background: orange !important;
+        background: #f91c90 !important;
         color:#FFF !important;
         font-weight: bold !important;
      }   
     
     /*donation page*/
     .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
-        color:#032550 !important;
+        color:#353a59 !important;
         font-family: "Sniglet", serif !important;
     }
     
     /*amount boxes and button*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*, #fs-donate-form .fs-btn-donate,.fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div{
-        background-color: #fd7301 !important;
-        color:#032550 !important;
+        background-color: #f91c90 !important;
+        color:#353a59 !important;
         border-radius:25px !important;
     }
     .fs-full-donate-form .fs-donate-body .fs-effective-donation-container .fs-effective-donation-amount-container{
-        color:#fd7301 !important;
+        color:#f91c90 !important;
     }
     /*amount boxes when selected*/
     /*.fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
@@ -240,8 +240,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     }
     /*footer*/
     .fs-footer {
-        background: #032550;
-        border-top: 1px solid #032550;
+        background: #353a59;
+        border-top: 1px solid #353a59;
     }
     .fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
         color:#fff !important;
