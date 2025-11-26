@@ -85,17 +85,17 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 background:#FFF !important ;
 }
 .col-md-6.text-xs-center.text-md-right.fs-goal-text, .fs-goal .fs-goal-text strong{
-    color:#032550 !important;
+    color:#b4b4b4 !important;
 }
 .fs-goal .fs-goal-text .fs-goal-amount,.fs-goal .fs-goal-graph-container .fs-goal-graph-text span{
-    color:#fd7301 !important;
+    color:#f91c90 !important;
 }
 /*goal meter  filled and then not filled*/
 .fs-goal-graph-fill{
-    background: #fd7301 !important;
+    background: #f91c90 !important;
 }
 .fs-goal-graph{
-    background: #032550 !important;
+    background: #b4b4b4 !important;
 }
 /*center goal*/
 /*@media (min-width:992px){
