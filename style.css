@@ -4,7 +4,7 @@
 /*header*/
 /*donate button*/
 .fs-header-top .fs-top-tools .fs-btn{
-    background:#fd7301 !important;
+    background:#f91c90 !important;
     border-radius: 25px !important;
 }
 a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
@@ -26,13 +26,13 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 /*hero image*/
 .fs-header:before {
     background-image: 
-   url("https://chabadofwesthills.com/media/images/1301/gFJZ13010256.png");
+   url("https://chabadofwesthills.com/media/images/1344/fcid13449323.png");
    background-size:100% 100%;
    }
    @media screen and (max-width: 700px) {
    .fs-header:before {
     background-image: 
-   url("https://chabadofwesthills.com/media/images/1301/mDMm13010771.png");
+   url("https://chabadofwesthills.com/media/images/1344/wPbr13449327.png");
    background-size:100% 100%;
    }
    }
@@ -252,6 +252,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     }
 
     /*lengthen campaign*/
+    /*
     .fs-matchers-intro span:nth-child(2){
         color:#032550 !important;
     }
@@ -267,3 +268,4 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         top:0 !important;
         left:0 !important;
       }
+      */
