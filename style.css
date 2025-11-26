@@ -111,7 +111,7 @@ background:#FFF !important ;
     background:#FFF !important;
 }
 .fs-matchers .fs-matchers-intro strong{
-    color:#032550 !important;
+    color:#353a59 !important;
 }
 .fs-matchers .fs-matcher .fs-matcher-image{
     display:none !important;   
@@ -125,12 +125,12 @@ background:#FFF !important ;
     background:#f91c90 !important;
     }
     .fs-countdown-number, .fs-countdown-sep{
-      color:#fed401 !important;
+      color:#353a59 !important;
       /*display:none !important;*/
     }
     /*maximize in countdown*/
     .fs-countdown h3 strong {
-        color:#fed401;
+        color:#353a59;
     }
     .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description{
         color:#fff !important;
@@ -138,7 +138,7 @@ background:#FFF !important ;
     }
     /*left until...*/
     h3.fs-countdown-message {
-        color: #fed401 !important;
+        color: #353a59 !important;
        /*visibility:hidden !important;
        position:relative !important;*/
     } 
