@@ -152,7 +152,7 @@ background:#FFF !important ;
 
     /*section next to countdown*/
    .fs-donate {
-    background:#fd7301
+    background:#353a59;
 }
 .fs-countdowndonate .fs-countdown, .fs-countdowndonate .fs-donate{
     border-radius:25px !important;
@@ -162,20 +162,21 @@ background:#FFF !important ;
 fill:#F8A147
 }*/
 div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
-    fill:#fd7301 !important;
+    fill:#353a59 !important;
 }
 
 /*dollar sign*/
 .fs-donate .fs-donate-amounts {
-    color:#032550;
+    color:#353a59;
 }
 /*button*/
 .fs-donate .fs-btn, .fs-donate .fs-btn:hover{    
     border-radius: 25px !important;
+    background-color: #fed401 !important;
 }
 /*main text*/
 .fs-about-text.js-about-text h3{
-    color:#353a59 !important;
+    color:# !important;
 }
 .fs-about-text.js-about-text h4{
     color: #f91c90 !important;
